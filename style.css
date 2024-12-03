@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.p1{
+    padding: 20px;
+    border: 2px solid black;
+    text-align: justify;
+}
+.p2{
+    border: 2px solid red;
+    padding: 10px;
+    margin: 20px;
+    outline-offset: 10px;
+    outline: 2px solid black;
+    text-align: justify;
+    background-color: rgb(86, 80, 92);
+    color: white;
+}
+.p3{
+    border: 2px solid green;
+    margin: 20px;
+    padding: 20px;
+    text-align: justify;
+}
+.h2{
+    text-align: center;
+    color: red;
+}
+span{
+    vertical-align: sub;
+}
